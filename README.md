@@ -37,5 +37,6 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 - The Complete Web Developer Course 2.0 - Udemy - 2017
 - The Complete Web Developer Course - Udemy - 2016
 - The Complete iPhone Developer Bootcamp - Udemy - 2015
-- 100s of hours of YouTube videos
+- 1000s of hours of YouTube videos, articles, podcasts, and other googling
+
 
