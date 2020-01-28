@@ -1,4 +1,4 @@
-# about-me
+# About Me
 
 ## Passions
 - Learning
@@ -29,9 +29,6 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
     - Technologies: ReactJS
 - [Mechuthink](https://joelmasters.github.io/mechuthink/)
     - App to spur creative thinking applied to mechanical design, based off Oblique Strategies
-    - Technologies: ReactJS
-- [Should I Buy This](https://joelmasters.github.io/shouldibuythis/)
-    - Questions to ask before buying something
     - Technologies: ReactJS
 
 ## Self Learning
