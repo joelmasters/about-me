@@ -19,11 +19,20 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 
 ## Projects
 - [Showpaca.com](https://showpaca.com)
-    - NextJS / NodeJS (Express) / AWS Elastic Beanstalk / AWS DynamoDB / Puppeteer
+    - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
+    - Technologies: NextJS / NodeJS (Express) / AWS Elastic Beanstalk / AWS DynamoDB / Puppeteer
 - [Diane's Budget App](https://joelmasters.github.io/dianes-budget-app)
-    - ReactJS / Material-UI
+    - Simple, easy-to-use budgeting app with month-to-month congruency
+    - Technologies: ReactJS / Material-UI
 - [Workout Builder](https://joelmasters.github.io/workout-builder)
-    - ReactJS
+    - Tool for building calesthenic workouts
+    - Technologies: ReactJS
+- [Mechuthink](https://joelmasters.github.io/mechuthink/)
+    - App to spur creative thinking applied to mechanical design, based off Oblique Strategies
+    - Technologies: ReactJS
+- [Should I Buy This](https://joelmasters.github.io/shouldibuythis/)
+    - Questions to ask before buying something
+    - Technologies: ReactJS
 
 ## Self Learning
 - HarvardX CS50 - 2019
