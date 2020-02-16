@@ -30,6 +30,9 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 - [Mechuthink](https://joelmasters.github.io/mechuthink/)
     - App to spur creative thinking applied to mechanical design, based off Oblique Strategies
     - Technologies: ReactJS
+- Alexa Skills App
+    - Modification of existing Alexa Skill to book movie tickets in user's area, Topcoder submission
+    - Technologies: Alexa Development Kit, Javascript, AWS
 
 ## Self Learning
 - HarvardX CS50 - 2019
