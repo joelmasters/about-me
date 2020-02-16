@@ -35,7 +35,7 @@
 ## Formal Schooling
 MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 - Concentraction: Mechatronics
-- [Tower-Tracking Heliostat Array: Master's Thesis](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1507&context=theses)
+- [Master's Thesis: Tower-Tracking Heliostat Array](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1507&context=theses)
     - Computer vision and embedded programming in C
 
 ## Self Learning
