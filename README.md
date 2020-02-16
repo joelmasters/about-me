@@ -15,10 +15,6 @@
 - Machine Learning
 - Pulling Insights out of Data
 
-## Formal Schooling
-MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
-- Concentraction: Mechatronics
-
 ## Projects
 - [Showpaca.com](https://showpaca.com)
     - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
@@ -35,6 +31,12 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 - Alexa Skills App
     - Modification of existing Alexa Skill to book movie tickets in user's area, Topcoder submission
     - Technologies: Alexa Development Kit, Javascript, AWS
+
+## Formal Schooling
+MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
+- Concentraction: Mechatronics
+- [Tower-Tracking Heliostat Array: Master's Thesis](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1507&context=theses)
+    - Computer vision and embedded programming in C
 
 ## Self Learning
 - HarvardX CS50 - 2019
