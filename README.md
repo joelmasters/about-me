@@ -1,5 +1,7 @@
 # About Me
 
+[CodePen](https://www.codepen.io/joelmasters) [LinkedIn](https://www.linkedin.com/in/joelmasters)
+
 ## Passions
 - Learning
 - Problem Solving
