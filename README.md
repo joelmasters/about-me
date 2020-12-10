@@ -1,5 +1,7 @@
 # About Me
 
+Hey, I'm Joel. I love learning and solving complex problems that require fitting seemingly unconnected pieces of information together. I love programming, designing, creating, and bringing things to life. I also love disc golf.
+
 [LinkedIn](https://www.linkedin.com/in/joelmasters) [Medium](https://joelmasters.medium.com) [Kaggle](https://www.kaggle.com/joelmasters) [CodePen](https://www.codepen.io/joelmasters)
 
 ## Projects
