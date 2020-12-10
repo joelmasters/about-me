@@ -37,12 +37,17 @@ Hey, I'm Joel. I love learning and solving complex problems that require fitting
 - Alexa Skills App
     - Modification of existing Alexa Skill to book movie tickets in user's area, Topcoder submission
     - Technologies: Alexa Development Kit, Javascript, AWS
+- First Thought iPhone Application
+    - Question-and-answer style game that gives you 7 seconds to answer
+    - Released to the Apple App store in 2015 (no longer in service)
 
 ## Formal Schooling
 MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 - Concentraction: Mechatronics
 - [Master's Thesis: Tower-Tracking Heliostat Array](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1507&context=theses)
     - Computer vision and embedded programming in C
+- Noteable coursework
+    - Statistics, Linear Algebra, Assembly, C, C++ programming, PCB Design, Computational Heat Transfer, Systems Design
 
 ## Self Learning
 - HarvardX CS50 - 2019
