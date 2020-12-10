@@ -2,7 +2,7 @@
 
 Hey, I'm Joel. I love learning and solving complex problems that require fitting seemingly unconnected pieces of information together. I love programming, designing, creating, and bringing things to life. I also love disc golf.
 
-[<img src="https://github.com/joelmasters/about-me/blob/master/linkedin-box-fill.png">](https://www.linkedin.com/in/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/medium-fill.png">](https://joelmasters.medium.com) [<img src="https://github.com/joelmasters/about-me/blob/master/codepen-fill.png">](https://www.codepen.io/joelmasters) [Kaggle](https://www.kaggle.com/joelmasters) 
+[<img src="https://github.com/joelmasters/about-me/blob/master/linkedin-box-fill.png" target="_blank">](https://www.linkedin.com/in/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/medium-fill.png" target="_blank">](https://joelmasters.medium.com) [<img src="https://github.com/joelmasters/about-me/blob/master/codepen-fill.png" target="_blank">](https://www.codepen.io/joelmasters) [Kaggle](https://www.kaggle.com/joelmasters) 
 
 ## Projects
 - [Showpaca.com](https://showpaca.com)
