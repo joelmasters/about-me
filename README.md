@@ -52,6 +52,9 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 ## Self Learning
 - HarvardX CS50 - 2019
 - Javascript Algorithms and Data Structures Masterclass - 2018
+- MIT OCW 6.046 - Design and Analysis of Algorithms - 2018
+- MIT OCW 6.034 - Artificial Intelligence - 2018
+- MIT OCW 6.006 - Introduction to Algorithms - 2018  
 - Python for Data Science and Machine Learning Bootcamp - 2018
 - UX and Web Design Master Course: Strategy, Design, and Development - 2018
 - Freecodecamp.org curriculum - 2017-Current
