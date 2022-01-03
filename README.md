@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I'm Joel. I love learning and solving complex problems that require fitting seemingly unconnected pieces of information together. I love programming, designing, creating, and bringing things to life. I also love disc golf.
+Hi, I'm Joel. I love learning and solving complex problems that require fitting seemingly unconnected pieces of information together. I love programming, designing, creating, and bringing things to life. Outside of work I love playing disc golf.
 
 [<img src="https://github.com/joelmasters/about-me/blob/master/linkedin-box-fill.png" target="_blank">](https://www.linkedin.com/in/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/medium-fill.png" target="_blank">](https://joelmasters.medium.com) [<img src="https://github.com/joelmasters/about-me/blob/master/kaggle-logo.png">](https://www.kaggle.com/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/codepen-fill.png" target="_blank">](https://www.codepen.io/joelmasters)
 
@@ -8,6 +8,13 @@ Hey, I'm Joel. I love learning and solving complex problems that require fitting
 - [Showpaca.com](https://showpaca.com)
     - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
     - Technologies: NextJS / NodeJS (Express) / AWS Elastic Beanstalk / AWS DynamoDB / Puppeteer
+- PDF Redline Tool
+    - Tool for easily redlining mechanical PDF drawings with text, lines, circles, special symbols, and more
+    - Zooming, scrolling, and page changing implemented
+    - Technologies: JavaScript, Electron, custom fork of annot-pdf.js
+- Form Comparator
+    - Program to compare disc golf forms, with tracking for specific pose landmarks
+    - Technologies: Python, OpenCV, PoseNet 
 - Reddit Comments Sentiment Analysis
     - Pulls Reddit comments via API and uses them to analyze sentiment for specific streaming services
     - Technologies: Python, Jupyter Notebook, pandas, NLTK, matplotlib
@@ -50,6 +57,7 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
     - Statistics, Linear Algebra, Assembly, C, C++ programming, PCB Design, Computational Heat Transfer, Systems Design
 
 ## Self Learning
+- AWS Solutions Architect Associate Exam Prep - 2020
 - HarvardX CS50 - 2019
 - Javascript Algorithms and Data Structures Masterclass - 2018
 - MIT OCW 6.046 - Design and Analysis of Algorithms - 2018
