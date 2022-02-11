@@ -47,6 +47,8 @@ Hi, I'm Joel. I love learning and solving complex problems that require fitting 
 - First Thought iPhone Application
     - Question-and-answer style game that gives you 7 seconds to answer
     - Released to the Apple App store in 2015 (no longer in service)
+- [Algorithms in JavaScript](https://github.com/joelmasters/algorithmsInJS)
+    - Algorithm implementations in JavaScript
 
 ## Formal Schooling
 MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
