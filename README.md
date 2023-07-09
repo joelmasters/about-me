@@ -5,6 +5,7 @@ Hi, I'm Joel. I love learning and solving complex problems that require fitting 
 [<img src="https://github.com/joelmasters/about-me/blob/master/linkedin-box-fill.png" target="_blank">](https://www.linkedin.com/in/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/medium-fill.png" target="_blank">](https://joelmasters.medium.com) [<img src="https://github.com/joelmasters/about-me/blob/master/kaggle-logo.png">](https://www.kaggle.com/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/codepen-fill.png" target="_blank">](https://www.codepen.io/joelmasters)
 
 ## Projects
+- [Disc Golf Performance Lab](https://www.discgolfperformancelab.com)
 - [Showpaca.com](https://showpaca.com)
     - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
     - Technologies: NextJS / NodeJS (Express) / AWS Elastic Beanstalk / AWS DynamoDB / Puppeteer
