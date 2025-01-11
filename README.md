@@ -5,10 +5,10 @@ Hi, I'm Joel. I love learning and solving complex problems that require fitting 
 [<img src="https://github.com/joelmasters/about-me/blob/master/linkedin-box-fill.png" target="_blank">](https://www.linkedin.com/in/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/medium-fill.png" target="_blank">](https://joelmasters.medium.com) [<img src="https://github.com/joelmasters/about-me/blob/master/kaggle-logo.png">](https://www.kaggle.com/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/codepen-fill.png" target="_blank">](https://www.codepen.io/joelmasters)
 
 ## Projects
-- [Snapdisc iOS App](https://apps.apple.com/us/app/snapdisc/id6471839863)
+- [Snapdisc iOS App](https://apps.apple.com/us/app/snapdisc/id6471839863){:target="_blank"}
     - iOS app to directly compare a player's form to a professional form 3D model. Pose estimation, joint tracking, AR, and video export
-- [Disc Golf Performance Lab](https://www.discgolfperformancelab.com)
-- [Showpaca.com](https://showpaca.com)
+- [Disc Golf Performance Lab](https://www.discgolfperformancelab.com){:target="_blank"}
+- [Showpaca.com](https://showpaca.com){:target="_blank"}
     - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
     - Technologies: NextJS / NodeJS (Express) / AWS Elastic Beanstalk / AWS DynamoDB / Puppeteer
 - PDF Redline Tool
@@ -22,35 +22,35 @@ Hi, I'm Joel. I love learning and solving complex problems that require fitting 
     - Pulls Reddit comments via API and uses them to analyze sentiment for specific streaming services
     - Technologies: Python, Jupyter Notebook, pandas, NLTK, matplotlib
     - [Source](https://github.com/joelmasters/showpaca-sentiment-analysis)
-- [Titanic Dataset Analysis](https://www.kaggle.com/joelmasters/titanic-analysis)
+- [Titanic Dataset Analysis](https://www.kaggle.com/joelmasters/titanic-analysis){:target="_blank"}
     - Predicts survivors using the famous Titanic dataset on Kaggle
     - Technologies: Python, Jupyter Notebook, pandas, matplotlib, scikit-learn, xgboost
-- [Housing Prices Analysis](https://www.kaggle.com/joelmasters/housing-prices-kernel)
+- [Housing Prices Analysis](https://www.kaggle.com/joelmasters/housing-prices-kernel){:target="_blank"}
     - Estimates the value of houses based on provided dataset
     - Technologies: Python, Jupyter Notebook, pandas, matplotlib, seaborn, scikit-learn
-- [Diane's Budget App](https://joelmasters.github.io/dianes-budget-app)
+- [Diane's Budget App](https://joelmasters.github.io/dianes-budget-app){:target="_blank"}
     - Simple, easy-to-use budgeting app with month-to-month congruency
     - Technologies: ReactJS / Material-UI
-    - [Source](https://github.com/joelmasters/dianes-budget-app)
-- [Online Sentiment Analyzer](https://5fb5f7ade73ced65c15ebb9d--nifty-mestorf-ed06ab.netlify.app/)
+    - [Source](https://github.com/joelmasters/dianes-budget-app){:target="_blank"}
+- [Online Sentiment Analyzer](https://5fb5f7ade73ced65c15ebb9d--nifty-mestorf-ed06ab.netlify.app/){:target="_blank"}
     - Simple online sentiment analyzer. Input text into the box and the tool will compute the sentiment score (0.0 - negative, 1.0 - positive)
     - Technologies: ReactJS / ml5.js
-    - [Source](https://github.com/joelmasters/sentiment-analyzer)
-- [Workout Builder](https://joelmasters.github.io/workout-builder)
+    - [Source](https://github.com/joelmasters/sentiment-analyzer){:target="_blank"}
+- [Workout Builder](https://joelmasters.github.io/workout-builder){:target="_blank"}
     - Tool for building calesthenic workouts
     - Technologies: ReactJS
-    - [Source](https://github.com/joelmasters/workout-builder)
-- [Mechuthink](https://joelmasters.github.io/mechuthink/)
+    - [Source](https://github.com/joelmasters/workout-builder){:target="_blank"}
+- [Mechuthink](https://joelmasters.github.io/mechuthink/){:target="_blank"}
     - App to spur creative thinking applied to mechanical design, based off Oblique Strategies
     - Technologies: ReactJS
-    - [Source](https://github.com/joelmasters/mechuthink)
+    - [Source](https://github.com/joelmasters/mechuthink){:target="_blank"}
 - Alexa Skills App
     - Modification of existing Alexa Skill to book movie tickets in user's area, Topcoder submission
     - Technologies: Alexa Development Kit, Javascript, AWS
 - First Thought iPhone Application
     - Question-and-answer style game that gives you 7 seconds to answer
     - Released to the Apple App store in 2015 (no longer in service)
-- [Algorithms in JavaScript](https://github.com/joelmasters/algorithmsInJS)
+- [Algorithms in JavaScript](https://github.com/joelmasters/algorithmsInJS){:target="_blank"}
     - Algorithm implementations in JavaScript
 
 ## Formal Schooling
