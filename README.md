@@ -5,6 +5,8 @@ Hi, I'm Joel. I love learning and solving complex problems that require fitting 
 [<img src="https://github.com/joelmasters/about-me/blob/master/linkedin-box-fill.png" target="_blank">](https://www.linkedin.com/in/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/medium-fill.png" target="_blank">](https://joelmasters.medium.com) [<img src="https://github.com/joelmasters/about-me/blob/master/kaggle-logo.png">](https://www.kaggle.com/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/codepen-fill.png" target="_blank">](https://www.codepen.io/joelmasters)
 
 ## Projects
+- [Snapdisc iOS App](https://apps.apple.com/us/app/snapdisc/id6471839863)
+    - iOS app to directly compare a player's form to a professional form 3D model. Pose estimation, joint tracking, AR, and video export
 - [Disc Golf Performance Lab](https://www.discgolfperformancelab.com)
 - [Showpaca.com](https://showpaca.com)
     - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
