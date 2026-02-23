@@ -5,16 +5,19 @@ Hi, I'm Joel. I love learning and solving complex problems that require fitting 
 [<img src="https://github.com/joelmasters/about-me/blob/master/linkedin-box-fill.png" target="_blank">](https://www.linkedin.com/in/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/medium-fill.png" target="_blank">](https://joelmasters.medium.com) [<img src="https://github.com/joelmasters/about-me/blob/master/kaggle-logo.png">](https://www.kaggle.com/joelmasters) [<img src="https://github.com/joelmasters/about-me/blob/master/codepen-fill.png" target="_blank">](https://www.codepen.io/joelmasters)
 
 ## Projects
+- PDF Engineer
+    - Tool for easily redlining mechanical PDF drawings with text, lines, circles, special symbols, and more
+    - Combine, re-arrange, save PDFs 
+    - Technologies: React, JavaScript, Electron
+- Cori
+    - iOS app to record important information from your conversations to remember what is important to those important to you
+    - Technologies: Swift/SwiftUI, SwiftData
 - [Snapdisc iOS App](https://apps.apple.com/us/app/snapdisc/id6471839863)
     - iOS app to directly compare a player's form to a professional form 3D model. Pose estimation, joint tracking, AR, and video export
 - [Disc Golf Performance Lab](https://www.discgolfperformancelab.com)
 - [Showpaca.com](https://showpaca.com)
     - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
     - Technologies: NextJS / NodeJS (Express) / AWS Elastic Beanstalk / AWS DynamoDB / Puppeteer
-- PDF Redline Tool
-    - Tool for easily redlining mechanical PDF drawings with text, lines, circles, special symbols, and more
-    - Zooming, scrolling, and page changing implemented
-    - Technologies: JavaScript, Electron, custom fork of annot-pdf.js
 - Form Comparator
     - Program to compare disc golf forms, with tracking for specific pose landmarks
     - Technologies: Python, OpenCV, PoseNet 
