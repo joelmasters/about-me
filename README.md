@@ -15,12 +15,12 @@ Hi, I'm Joel. I love learning and solving complex problems that require fitting 
 - [Snapdisc iOS App](https://apps.apple.com/us/app/snapdisc/id6471839863)
     - iOS app to directly compare a player's form to a professional form 3D model. Pose estimation, joint tracking, AR, and video export
 - [Disc Golf Performance Lab](https://www.discgolfperformancelab.com)
+  - Form Comparator
+    - Program to compare disc golf forms, with tracking for specific pose landmarks
+    - Technologies: Python, OpenCV, PoseNet 
 - [Showpaca.com](https://showpaca.com)
     - Streaming service comparison tool that finds the lowest cost way to watch any combination of channels
     - Technologies: NextJS / NodeJS (Express) / AWS Elastic Beanstalk / AWS DynamoDB / Puppeteer
-- Form Comparator
-    - Program to compare disc golf forms, with tracking for specific pose landmarks
-    - Technologies: Python, OpenCV, PoseNet 
 - Reddit Comments Sentiment Analysis
     - Pulls Reddit comments via API and uses them to analyze sentiment for specific streaming services
     - Technologies: Python, Jupyter Notebook, pandas, NLTK, matplotlib
@@ -65,6 +65,11 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
     - Statistics, Linear Algebra, Assembly, C, C++ programming, PCB Design, Computational Heat Transfer, Systems Design
 
 ## Self Learning
+- Advanced GraphQL for Developers: Optimize & Scale Modern API - Board Infinity - 2026
+- Claude Code in Action - Anthropic - 2026
+- Generative AI with Large Language Models - AWS - 2025
+- Decoding AI: A Deep Dive into AI Models and Predictions - University of Michigan - 2025
+- Foundational C# - Freecodecamp.org - 2023
 - AWS Solutions Architect Associate Exam Prep - 2020
 - HarvardX CS50 - 2019
 - Javascript Algorithms and Data Structures Masterclass - 2018
@@ -73,7 +78,7 @@ MS/BS Mechanical Engineering, Cal Poly San Luis Obispo, March 2011
 - MIT OCW 6.006 - Introduction to Algorithms - 2018  
 - Python for Data Science and Machine Learning Bootcamp - 2018
 - UX and Web Design Master Course: Strategy, Design, and Development - 2018
-- Freecodecamp.org curriculum - 2017-Current
+- Freecodecamp.org curriculum - 2017-2018
     - Responsive Web Design
     - Javascript Algorithms and Data Structures
     - Data Visualization
